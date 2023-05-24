@@ -1,3 +1,3 @@
 My Personal Website
 
-https://rikypurnomo.versel.app
+https://rikypurnomo.vercel.app
